@@ -683,6 +683,12 @@ section {
   padding-top: 30px;
 }
 
+.portfolio-wrap .portfolio-description {
+  padding: 15px;
+  background-color: #173b6c;
+  color: whitesmoke;
+}
+
 .portfolio-details .portfolio-description h2 {
   font-size: 26px;
   font-weight: 700;
