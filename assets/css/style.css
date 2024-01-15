@@ -687,6 +687,7 @@ section {
   padding: 15px;
   background-color: #173b6c;
   color: whitesmoke;
+  text-align: justify;
 }
 
 .portfolio-details .portfolio-description h2 {
